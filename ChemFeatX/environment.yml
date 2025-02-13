@@ -1,0 +1,51 @@
+name: ChemFeatX
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - biopython=1.84=py312h9a8786e_0
+  - bzip2=1.0.8=h4bc722e_7
+  - ca-certificates=2025.1.31=hbcca054_0
+  - ld_impl_linux-64=2.43=h712a8e2_2
+  - libblas=3.9.0=28_h59b9bed_openblas
+  - libcblas=3.9.0=28_he106b2a_openblas
+  - libexpat=2.6.4=h5888daf_0
+  - libffi=3.4.2=h7f98852_5
+  - libgcc=14.2.0=h77fa898_1
+  - libgcc-ng=14.2.0=h69a702a_1
+  - libgfortran=14.2.0=h69a702a_1
+  - libgfortran5=14.2.0=hd5240d6_1
+  - libgomp=14.2.0=h77fa898_1
+  - liblapack=3.9.0=28_h7ac8fdf_openblas
+  - liblzma=5.6.4=hb9d3cd8_0
+  - liblzma-devel=5.6.4=hb9d3cd8_0
+  - libnsl=2.0.1=hd590300_0
+  - libopenblas=0.3.28=pthreads_h94d23a6_1
+  - libsqlite=3.48.0=hee588c1_1
+  - libstdcxx=14.2.0=hc0a3c3a_1
+  - libstdcxx-ng=14.2.0=h4852527_1
+  - libuuid=2.38.1=h0b41bf4_0
+  - libxcrypt=4.4.36=hd590300_1
+  - libzlib=1.3.1=hb9d3cd8_2
+  - ncurses=6.5=h2d0b736_3
+  - numpy=1.26.4=py312heda63a1_0
+  - openssl=3.4.0=h7b32b05_1
+  - pandas=2.2.3=py312hf9745cd_1
+  - pip=25.0=pyh8b19718_0
+  - python=3.12.3=hab00c5b_0_cpython
+  - python-dateutil=2.9.0.post0=pyhff2d567_1
+  - python-tzdata=2025.1=pyhd8ed1ab_0
+  - python_abi=3.12=5_cp312
+  - pytz=2024.1=pyhd8ed1ab_0
+  - readline=8.2=h8228510_1
+  - setuptools=75.8.0=pyhff2d567_0
+  - six=1.17.0=pyhd8ed1ab_0
+  - tk=8.6.13=noxft_h4845f30_101
+  - tzdata=2025a=h78e105d_0
+  - wheel=0.45.1=pyhd8ed1ab_1
+  - xz=5.6.4=hbcc6ac9_0
+  - xz-gpl-tools=5.6.4=hbcc6ac9_0
+  - xz-tools=5.6.4=hb9d3cd8_0
+prefix: /usr/local/softwares/miniconda/3/gcc13.2/envs/ChemFeatX
