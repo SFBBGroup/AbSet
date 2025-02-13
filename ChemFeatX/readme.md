@@ -1,4 +1,3 @@
-
 # ChemFeatX
 ![Python 3.13](https://img.shields.io/static/v1?label=python&message=3.13&color=blue&style=flat-square)
 
@@ -36,6 +35,8 @@ Make sure DSSP is functional by running a test command:
 ```bash
 mkdssp {pdb_file} --output-format dssp > {filename}.tbl
 ```
+
+Additionally, make sure that the PDB files do not contain heteroatoms.
 
 ## Running the Script
 
