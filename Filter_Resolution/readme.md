@@ -1,5 +1,5 @@
 
-# ChemFeatX
+# FilterResolution
 ![Python 3.13](https://img.shields.io/static/v1?label=python&message=3.13&color=blue&style=flat-square)
 
 This repository contains a script to filter structures based on their resolution, using resolution data available from the Protein Data Bank (PDB)
