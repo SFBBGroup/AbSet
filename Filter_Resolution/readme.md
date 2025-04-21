@@ -8,11 +8,6 @@ This repository contains a script to filter structures based on their resolution
 
 The filter_resolution.py script can be executed directly from the terminal. Alternatively, a Google Colab notebook (filter_resolution.ipynb) is provided for users who prefer a browser-based environment.
 
-
-## Prerequisites
-
-Biopython
-
 ## Running the Script
 
 The resolution threshold can be modified.
