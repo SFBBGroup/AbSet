@@ -52,3 +52,7 @@ At the end of the execution, a .csv file will be generated at:
 ```bash
 ./output/pdb_name.csv
 ```
+
+### Reference
+
+https://doi.org/10.1021/acs.jcim.5c00410
